@@ -1,15 +1,15 @@
 {
-  "name": "sample_package",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github-revskill10:truongteam/sample_package.git"
-  },
-  "author": "",
-  "license": "ISC"
+    "name": "@truongteam/sample_package",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github-revskill10:truongteam/sample_package.git"
+    },
+    "author": "",
+    "license": "ISC"
 }
