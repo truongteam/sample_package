@@ -1,15 +1,18 @@
 {
     "name": "@truongteam/sample_package",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "copy": "cp src/index.js dist/"
     },
     "repository": {
         "type": "git",
         "url": "git@github-revskill10:truongteam/sample_package.git"
     },
     "author": "",
-    "license": "ISC"
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^4.3.5"
+    }
 }
